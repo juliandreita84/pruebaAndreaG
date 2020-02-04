@@ -1,0 +1,4 @@
+com\andrea\util\PropertiesReader.class
+com\andrea\serviciossincroniza\OperacionesAsignaturas.class
+com\andrea\BO\OperarAsignatura.class
+com\andrea\serviceColegio\ServiceColegioLocator.class
